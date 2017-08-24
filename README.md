@@ -1,10 +1,11 @@
 # InOut-modal
 
-Proyecto curso de animaciones d eentrada y salida para animaciones en la web de Platzi.com
+Proyecto curso de animaciones de entrada y salida para animaciones en la web de Platzi.com
 
-Modal con animaciones desde css, y controlando eventos desde Javascript pueda hacer el el fecto de entrada y salida del screen.
+Modal con animaciones desde css, y controlando eventos desde Javascript pueda hacer el el efecto de entrada y salida del screen.
 
-Se añadio la condicion de e.target.id === 'overlay' para poder controlar cuando se daba un click fuera del modal, y asi poder cerrar el modal.
+Se añadio la condicion de e.target.id === 'overlay' para poder controlar cuando se daba un click fuera del modal, y así poder cerrar el modal.
+
 
 
 ## Ejemplo Codepen.io
