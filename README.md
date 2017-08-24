@@ -6,6 +6,11 @@ Modal con animaciones desde css, y controlando eventos desde Javascript pueda ha
 
 Se añadio la condicion de e.target.id === 'overlay' para poder controlar cuando se daba un click fuera del modal, y asi poder cerrar el modal.
 
+
+## Ejemplo Codepen.io
+
+[https://codepen.io/emilio0/pen/jLpqNx](https://codepen.io/emilio0/pen/jLpqNx)
+
 ## Créditos
 
 - [Emilio Hernandez](https://www.linkedin.com/in/emilio-rafael-hernandez-perez-3a8bb540/)
